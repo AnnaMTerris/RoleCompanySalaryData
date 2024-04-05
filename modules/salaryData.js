@@ -1,4 +1,4 @@
-onst salaryData = [
+const salaryData = [
     { role: 'CTO', company: 'Big Data Inc.', salary: 320000},
     { role: 'Technical Lead', company: 'Big Data Inc.', salary: 230000},
     { role: 'Software Engineer II', company: 'Big Data Inc.', salary: 180000},
